@@ -1,6 +1,6 @@
 <!-- ### Hello 👋🏼 -->
 
-# Hello <img src="https://i.ibb.co/27xxNVC/68747470733a2f2f76617264656361622e6769746875622e696f2f61626f75742d6d652f69636f6e732f6e6572642d637573.png" style="vertical-align: middle;">
+# Hello <img width="30" align="center" src="https://vardecab.github.io/about-me/icons/nerd-custom.png">
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
