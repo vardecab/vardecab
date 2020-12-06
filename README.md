@@ -6,10 +6,13 @@ I'm Kuba — Growth Marketer, Facebook Media Buyer for Fortune 500 & YC companie
 
 - 🧐 You can learn more about me by visitng <a href="https://vardecab.github.io/about-me/" target="_blank">my website</a>.
 - ☔ My biggest project → <a href="https://github.com/vardecab/umbrella" target="_blank">Umbrella</a>:
-    >A simple weather page that tells you if you need to take an umbrella when going outside ☔ + it shows air quality.
+    >A simple weather page that tells you if you need to take an umbrella when going outside ☔ + it shows air quality and allergy information for supported regions. _Currently only in Polish_.
 - 💡 My browser extension → <a href="https://github.com/vardecab/good-manager" target="_blank">Good Manager</a>:
     >Good Manager is a new-tab replacement extension for Chromium-based browsers (eg Google Chrome, Brave, Vivaldi) and acts as a simple way to motivate me to be a better manager by randomly showing specific quotes/phrases from several categories.
-
+- 🐍 My Python project →  <a href="https://github.com/vardecab/kindle-words" target="_blank">kindle-words</a>:
+    >Do something useful with your Kindle notes :) This script extracts individual words from My Clippings file hidden on your Kindle e-reader, translates them using Google Translate and exports the pair "original word" → "translation" into a .txt file from which you can learn these words or import them into an application such as Quizlet.
+- 🤖 Idea I had... →  <a href="https://github.com/vardecab/emails-from-pdfs" target="_blank">emails-from-pdfs</a>:
+    >Extract email addresses from PDFs stored in multiple folders. For example: you can download candidates' CVs from your HR platform and this script will extract all email addresses found in the files.
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
