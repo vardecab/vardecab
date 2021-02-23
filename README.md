@@ -11,7 +11,7 @@ I'm Kuba — Growth Marketer, Facebook Media Buyer for Fortune 500 & YC companie
 - 💡 My browser extension → <a href="https://github.com/vardecab/good-manager" target="_blank">Good Manager</a>:
     >Good Manager is a new-tab replacement extension for Chromium-based browsers (eg Google Chrome, Brave, Vivaldi) and acts as a simple way to motivate me to be a better manager by randomly showing specific quotes/phrases from several categories.
 - 🚗 My Python project →  <a href="https://github.com/vardecab/otomoto-scraper" target="_blank">otomoto-scraper</a>:
-    >Scrape car offers from Otomoto․pl and send email when new car matching search criteria is found.
+    >Scrape car offers from OTOMOTO․pl and run IFTTT automation when new car matching search criteria is found.
 - 🐍 Another Python project I've managed to build → <a href="https://github.com/vardecab/eskarbonka-update" target="_blank">eSkarbonka-update</a>:
     >Periodically check & get a native system notification if value was changed on a website. In this case, get value from my WOŚP's eSkarbonka.
 - 💬 And yet another Python one →  <a href="https://github.com/vardecab/kindle-words" target="_blank">kindle-words</a>:
