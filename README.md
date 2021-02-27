@@ -11,7 +11,9 @@ I'm Kuba — Growth Marketer, Facebook Media Buyer for Fortune 500 & YC companie
 - 💡 My browser extension → <a href="https://github.com/vardecab/good-manager" target="_blank">Good Manager</a>:
     >Good Manager is a new-tab replacement extension for Chromium-based browsers (eg Google Chrome, Brave, Vivaldi) and acts as a simple way to motivate me to be a better manager by randomly showing specific quotes/phrases from several categories.
 - 🚗 My Python project →  <a href="https://github.com/vardecab/otomoto-scraper" target="_blank">otomoto-scraper</a>:
-    >Scrape car offers from OTOMOTO․pl and run IFTTT automation (eg. send email; add a to-do task) when new car(s) matching search criteria is found. With support for native macOS & Windows 10 notifications.
+    >Scrape car offers from OTOMOTO․pl and run IFTTT automation (eg. send email; add a to-do task) when new car(s) matching search criteria is found. With support for native macOS & Windows 10 notifications. 
+- 🚚 My first Python module → <a href="https://github.com/vardecab/win10toast-click" target="_blank">win10toast-click</a>:
+    >An easy-to-use Python library for displaying Windows 10 Toast Notifications. Improved version of win10toast and win10toast-persist to include callback_on_click to run a function on notification click, for example to open a URL.
 - 🐍 Another Python project I've managed to build → <a href="https://github.com/vardecab/eskarbonka-update" target="_blank">eSkarbonka-update</a>:
     >Periodically check & get a native system notification if value was changed on a website. In this case, get value from my WOŚP's eSkarbonka.
 - 💬 And yet another Python one →  <a href="https://github.com/vardecab/kindle-words" target="_blank">kindle-words</a>:
