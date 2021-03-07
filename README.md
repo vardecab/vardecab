@@ -14,10 +14,10 @@ I'm Kuba — Growth Marketer, Facebook Media Buyer for Fortune 500 & YC companie
     >Scrape car offers from OTOMOTO․pl & OLX․pl and run IFTTT automation (eg. send email; add a to-do task) when new car(s) matching search criteria is found. With support for native macOS & Windows 10 notifications. 
 - 🚚 My first Python module available on PyPI → <a href="https://github.com/vardecab/win10toast-click" target="_blank">win10toast-click</a>:
     >An easy-to-use Python library for displaying Windows 10 Toast Notifications. Improved version of win10toast and win10toast-persist to include `callback_on_click` to run a function on notification click, for example to open a URL.
-- 🐍 Another Python project I've managed to build → <a href="https://github.com/vardecab/eskarbonka-update" target="_blank">eSkarbonka-update</a>:
-    >Periodically check & get a native system notification if value was changed on a website. In this case, get value from my WOŚP's eSkarbonka.
-- 💬 And yet another Python one →  <a href="https://github.com/vardecab/kindle-words" target="_blank">kindle-words</a>:
+- 💬 Another Python project I've managed to build →  <a href="https://github.com/vardecab/kindle-words" target="_blank">kindle-words</a>:
     >Do something useful with your Kindle notes :) This script extracts individual words from My Clippings file hidden on your Kindle e-reader, translates them using Google Translate and exports the pair "original word" → "translation" into a .txt file from which you can learn these words or import them into an application such as Quizlet.
+- 🐍 And yet another Python one → <a href="https://github.com/vardecab/eskarbonka-update" target="_blank">eSkarbonka-update</a>:
+    >Periodically check & get a native system notification if value was changed on a website. In this case, get value from my WOŚP's eSkarbonka.
 
 - 🤖 And an idea I had... →  <a href="https://github.com/vardecab/emails-from-pdfs" target="_blank">emails-from-pdfs</a>:
     >Extract email addresses from PDFs stored in multiple folders. For example: you can download candidates' CVs from your HR platform and this script will extract all email addresses found in the files.
