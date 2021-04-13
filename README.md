@@ -2,7 +2,7 @@
 
 ## Hello <img width="25" align="center" src="https://vardecab.github.io/about-me/icons/nerd-custom.png">
 
-I'm Kuba — Growth Marketer, Growth Mentor, Facebook Media Buyer for Fortune 500 & YC companies, Certified Team Manager, Asana Ambassador with MSc from the best business university in Poland. Currently the Head of Paid Social @ <a href="https://try.Ladder.io" target="_blank">Ladder Digital</a>. You can learn more about me by visitng <a href="https://vardecab.github.io/about-me/" target="_blank">my website</a>.
+I'm Kuba — Growth Marketer, Growth Mentor, Facebook Media Buyer for Fortune 500 & YC companies, Certified Team Manager, Asana Ambassador with MSc from the best business university in Poland. Currently the Head of Paid Social @ <a href="https://Ladder.io" target="_blank">Ladder Digital</a>. You can learn more about me by visitng <a href="https://vardecab.github.io/about-me/" target="_blank">my website</a>.
 
 <br>
 
