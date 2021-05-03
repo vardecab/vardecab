@@ -8,7 +8,7 @@ I'm Kuba — Growth Marketer, Growth Mentor, Facebook Media Buyer for Fortune 50
 
 - ☔ My biggest project → <a href="https://github.com/vardecab/umbrella" target="_blank">Umbrella</a>:
     >A simple weather page that tells you if you need to take an umbrella when going outside ☔ + it shows air quality and allergy information for supported regions. _Currently only in Polish_.
-- 🏠 Perhaps my second biggest project → <a href="" target="_blank">flat-scraper</a>:
+- 🏠 Perhaps my second biggest project (using AI 😱) → <a href="" target="_blank">flat-scraper</a>:
     >Looking for a modern, nicely looking apartment but tired with all these old flats from the '90s? Let's automate that :) <br><br> Scrape apartment offers from OLX․pl, analyse them using artificial intelligence (AI) model to get only good looking flats and (optionally) run IFTTT automation (eg. send email; add a to-do task) when new offers matching search criteria (eg. ≥ 2 rooms, ≤ 2k PLN, ≥ 30m²) are found.
 - 💡 My browser extension → <a href="https://github.com/vardecab/good-manager" target="_blank">Good Manager</a>:
     >Good Manager is a new-tab replacement extension for Chromium-based browsers (eg Google Chrome, Brave, Vivaldi) and acts as a simple way to motivate me to be a better manager by randomly showing specific quotes/phrases from several categories.
