@@ -53,4 +53,4 @@ I'm Kuba and you can read more about me by visitng <a href="https://vardecab.git
 
 **Languages**:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vardecab)](https://github.com/vardecab
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vardecab)](https://github.com/vardecab)
