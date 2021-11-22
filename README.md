@@ -30,13 +30,14 @@ I'm Kuba and you can read more about me by visiting <a href="https://vardecab.gi
 - 📦 And a script to look for updates for my Kindle → <a href="https://github.com/vardecab/kindle-updater" target="_blank">kindle-updater</a>:
     >Script in Python to check if new software version is available for Kindle Paperwhite 4 (or any other model after you change a couple of variables).
 
-- 💸 Another script to be up to date with forex → <a href="https://github.com/vardecab/forex-notifier" target="_blank">forex-notifier</a>:
-    >Simple script to show forex rates as Windows 10/11 / macOS notification.
 - 🚚 My first Python module available on PyPI (to give back to community) → <a href="https://github.com/vardecab/win10toast-click" target="_blank">win10toast-click</a>:
     >An easy-to-use Python library for displaying Windows 10 Toast Notifications. Improved version of win10toast and win10toast-persist to include `callback_on_click` to run a function on notification click, for example to open a URL.
 
 ### Smaller projects: 
 
+- 💸 Script to be up to date with forex → <a href="https://github.com/vardecab/forex-notifier" target="_blank">forex-notifier</a>:
+    >Simple script to show forex rates as Windows 10/11 / macOS notification.
+    
 - 📦 And a script to look for updates for my Kindle → <a href="https://github.com/vardecab/kindle-updater" target="_blank">kindle-updater</a>:
     >Script in Python to check if new software version is available for Kindle Paperwhite 4 (or any other model after you change a couple of variables).
 
