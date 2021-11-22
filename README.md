@@ -2,9 +2,15 @@
 
 ## Hello <img width="25" align="center" src="https://vardecab.github.io/about-me/icons/nerd-custom.png">
 
-I'm Kuba and you can read more about me by visitng <a href="https://vardecab.github.io/about-me/" target="_blank">my website</a>.
+I'm Kuba and you can read more about me by visiting <a href="https://vardecab.github.io/about-me/" target="_blank">my website</a>. Below you can see the things I put together.
 
 <br>
+
+### Newest thing: 
+
+- ⚡ Control Tuya-compatible light bulbs & sockets in you smart home from Windows / macOS computer → <a href="https://github.com/vardecab/control-tuya_smarthome" target="_blank">control-tuya_smarthome</a>
+
+### Big projects: 
 
 - ☔ My biggest project (using 6 different APIs)→ <a href="https://github.com/vardecab/umbrella" target="_blank">Umbrella</a>:
     >A simple weather page that tells you if you need to take an umbrella when going outside ☔ + it shows air quality and allergy information for supported regions. _Currently only in Polish_.
@@ -29,6 +35,11 @@ I'm Kuba and you can read more about me by visitng <a href="https://vardecab.git
 - 🚚 My first Python module available on PyPI (to give back to community) → <a href="https://github.com/vardecab/win10toast-click" target="_blank">win10toast-click</a>:
     >An easy-to-use Python library for displaying Windows 10 Toast Notifications. Improved version of win10toast and win10toast-persist to include `callback_on_click` to run a function on notification click, for example to open a URL.
 
+### Smaller projects: 
+
+- 📦 And a script to look for updates for my Kindle → <a href="https://github.com/vardecab/kindle-updater" target="_blank">kindle-updater</a>:
+    >Script in Python to check if new software version is available for Kindle Paperwhite 4 (or any other model after you change a couple of variables).
+
 - 🐍 And yet another Python one (to save time) → <a href="https://github.com/vardecab/eskarbonka-update" target="_blank">eSkarbonka-update</a>:
     >Periodically check & get a native system notification if value was changed on a website. In this case, get value from my WOŚP's eSkarbonka.
     
@@ -48,5 +59,3 @@ I'm Kuba and you can read more about me by visitng <a href="https://vardecab.git
 **Languages**:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vardecab)](https://github.com/vardecab)
-
-**Projects I work on 👇🏼**
