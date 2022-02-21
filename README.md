@@ -1,14 +1,18 @@
 <!-- ### Hello 👋🏼 -->
 
-## Hello <img width="25" align="center" src="https://vardecab.github.io/about-me/icons/nerd-custom.png">
+## Hello 👋🏼
+<!-- <img width="25" align="center" src="https://vardecab.github.io/about-me/icons/nerd-custom.png"> -->
 
-I'm Kuba and you can read more about me by visiting <a href="https://vardecab.github.io/about-me/" target="_blank">my website</a>. Below you can see the things I put together.
+I'm Kuba and you can read more about me by visiting <a href="https://kuba.rdzak.com" target="_blank">my website</a>. Below you can see the things I put together.
 
 <br>
 
-### Newest thing: 
+### Newest thing(s):
 
 - ⚡ Control Tuya-compatible light bulbs & sockets in you smart home from Windows / macOS computer → <a href="https://github.com/vardecab/control-tuya_smarthome" target="_blank">control-tuya_smarthome</a>
+
+- 💸 Script to be notified when to buy/sell currencies → <a href="https://github.com/vardecab/forex-notifier" target="_blank">forex-notifier</a>:
+    >Simple script to show forex rates as Windows 10/11 / macOS notification.
 
 ### Big projects: 
 
@@ -34,9 +38,6 @@ I'm Kuba and you can read more about me by visiting <a href="https://vardecab.gi
     >An easy-to-use Python library for displaying Windows 10 Toast Notifications. Improved version of win10toast and win10toast-persist to include `callback_on_click` to run a function on notification click, for example to open a URL.
 
 ### Smaller projects: 
-
-- 💸 Script to be up to date with forex → <a href="https://github.com/vardecab/forex-notifier" target="_blank">forex-notifier</a>:
-    >Simple script to show forex rates as Windows 10/11 / macOS notification.
     
 - 📦 And a script to look for updates for my Kindle → <a href="https://github.com/vardecab/kindle-updater" target="_blank">kindle-updater</a>:
     >Script in Python to check if new software version is available for Kindle Paperwhite 4 (or any other model after you change a couple of variables).
