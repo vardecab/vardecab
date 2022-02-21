@@ -11,8 +11,7 @@ I'm Kuba and you can read more about me by visiting <a href="https://kuba.rdzak.
 
 - ⚡ Control Tuya-compatible light bulbs & sockets in you smart home from Windows / macOS computer → <a href="https://github.com/vardecab/control-tuya_smarthome" target="_blank">control-tuya_smarthome</a>
 
-- 💸 Script to be notified when to buy/sell currencies → <a href="https://github.com/vardecab/forex-notifier" target="_blank">forex-notifier</a>:
-    >Simple script to show forex rates as Windows 10/11 / macOS notification.
+- 💸 Script to be notified when to buy/sell currencies → <a href="https://github.com/vardecab/forex-notifier" target="_blank">forex-notifier</a>
 
 ### Big projects: 
 
