@@ -21,9 +21,9 @@ I'm Kuba and you can read more about me by visiting <a href="https://kuba.rdzak.
 
 - 📊 Script to create charts based on the rates from <a href="https://github.com/vardecab/forex-notifier" target="_blank">forex-notifier</a> → <a href="https://github.com/vardecab/charting" target="_blank">charting</a>
 
-- ⬇️ Playing with auto-downloading videos from YouTube when a new video is published (using RSS reader) → <a href="https://github.com/vardecab/rss-youtube-downloader" target="_blank">rss-youtube-downloader</a>
+- ⬇️ Playing around with auto-downloading videos from YouTube when a new video is published (using RSS reader) → <a href="https://github.com/vardecab/rss-youtube-downloader" target="_blank">rss-youtube-downloader</a>
 
-- ⚡ Control Tuya-compatible light bulbs & sockets in you smart home from Windows / macOS computer → <a href="https://github.com/vardecab/control-tuya_smarthome" target="_blank">control-tuya_smarthome</a>
+- ⚡ Control Tuya-compatible light bulbs & sockets in your smart home from Windows / macOS computer → <a href="https://github.com/vardecab/control-tuya_smarthome" target="_blank">control-tuya_smarthome</a>
 
 - 📦 And a script to look for updates for my Kindle → <a href="https://github.com/vardecab/kindle-updater" target="_blank">kindle-updater</a>:
     >Script in Python to check if new software version is available for Kindle Paperwhite 4 (or any other model after you change a couple of variables).
