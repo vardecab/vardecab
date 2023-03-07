@@ -19,8 +19,6 @@ I'm Kuba and you can read more about me by visiting <a href="https://kuba.rdzak.
 
 - 💸 Script to be notified when to buy/sell currencies → <a href="https://github.com/vardecab/forex-notifier" target="_blank">forex-notifier</a>
 
-- 📊 Script to create charts based on the rates from <a href="https://github.com/vardecab/forex-notifier" target="_blank">forex-notifier</a> → <a href="https://github.com/vardecab/charting" target="_blank">charting</a>
-
 - ⬇️ Playing around with auto-downloading videos from YouTube when a new video is published (using RSS reader) → <a href="https://github.com/vardecab/rss-youtube-downloader" target="_blank">rss-youtube-downloader</a>
 
 - ⚡ Control Tuya-compatible light bulbs & sockets in your smart home from Windows / macOS computer → <a href="https://github.com/vardecab/control-tuya_smarthome" target="_blank">control-tuya_smarthome</a>
