@@ -23,6 +23,8 @@ I'm Kuba and you can read more about me by visiting <a href="https://kuba.rdzak.
 
 - 📺 … And downloading YouTube videos and music in general, on demand → <a href="https://github.com/vardecab/youtube-downloader" target="_blank">youtube-downloader</a>
 
+- 🗺️ Script to visualize my car trips on an interactive map → <a href="https://github.com/vardecab/fuelio-trip-visualizer" target="_blank">fuelio-trip-visualizer</a>
+
 - ⚡ Control Tuya-compatible light bulbs & sockets in your smart home from Windows / macOS computer → <a href="https://github.com/vardecab/control-tuya_smarthome" target="_blank">control-tuya_smarthome</a>
 
 - 📦 And a script to look for updates for my Kindle → <a href="https://github.com/vardecab/kindle-updater" target="_blank">kindle-updater</a>:
@@ -30,6 +32,7 @@ I'm Kuba and you can read more about me by visiting <a href="https://kuba.rdzak.
 
 - 💡 My browser extension (to motivate me) → <a href="https://github.com/vardecab/good-manager" target="_blank">Good Manager</a>:
     >Good Manager is a new-tab replacement extension for Chromium-based browsers (eg Google Chrome, Brave, Vivaldi) and acts as a simple way to motivate me to be a better manager by randomly showing specific quotes/phrases from several categories.
+
 
 ## Inactive projects:
 
