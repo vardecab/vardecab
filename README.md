@@ -3,11 +3,11 @@
 ## Hello 👋🏼
 <!-- <img width="25" align="center" src="https://vardecab.github.io/about-me/icons/nerd-custom.png"> -->
 
-I'm Kuba and you can read more about me by visiting <a href="https://kuba.rdzak.com" target="_blank">my website</a>. Below you can see the things I put together.
+Kuba here. I hope you're having a great day! You can read more about me by visiting <a href="https://kuba.rdzak.com" target="_blank">my website</a>. Below you can see the things I put together.
 
-<br>
+<!-- <br> -->
 
-## Active projects:
+## Active projects
 <!-- ### Newest thing(s) I'm experimenting with: -->
 
 ### Big ones:
@@ -34,7 +34,7 @@ I'm Kuba and you can read more about me by visiting <a href="https://kuba.rdzak.
     >Good Manager is a new-tab replacement extension for Chromium-based browsers (eg Google Chrome, Brave, Vivaldi) and acts as a simple way to motivate me to be a better manager by randomly showing specific quotes/phrases from several categories.
 
 
-## Inactive projects:
+## Inactive projects
 
 - 🏠 Perhaps my second biggest project (using AI 😱) → <a href="https://github.com/vardecab/flat-finder" target="_blank">flat-finder</a>:
     >Looking for a modern, nicely looking apartment but tired with all these old flats from the '90s? Let's automate that :) <br><br> Scrape apartment offers from OLX․pl, analyse them using artificial intelligence (AI) model to get only good looking flats and (optionally) run IFTTT automation (eg. send email; add a to-do task) when new offers matching search criteria (eg. ≥ 2 rooms, ≤ 2k PLN, ≥ 30m²) are found.
@@ -60,9 +60,9 @@ I'm Kuba and you can read more about me by visiting <a href="https://kuba.rdzak.
 
 <br>
 
-**Stats**:
+<!-- **Stats**:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vardecab&show_icons=true&custom_title=My%20GitHub%20Stats)](https://github.com/vardecab)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vardecab&show_icons=true&custom_title=My%20GitHub%20Stats)](https://github.com/vardecab) -->
 
 **Languages**:
 
