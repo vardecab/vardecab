@@ -11,11 +11,11 @@ You can read more about me by visiting <a href="https://kuba.rdzak.com" target="
 
 ## Newest thing(s) I'm experimenting with
 
-- timer-stopwatches 
+- <a href="https://github.com/vardecab/timetrack-stopwatches" target="_blank">timetrack-stopwatches</a>
+
+- <a href="https://github.com/vardecab/fridget" target="_blank">fridget</a>
 
 - shrinky
-
-- fridget
 
 - flights
 
@@ -26,11 +26,11 @@ You can read more about me by visiting <a href="https://kuba.rdzak.com" target="
 - ☔ My biggest project (using 6+ different APIs) → <a href="https://github.com/vardecab/umbrella" target="_blank">Umbrella</a>:
     >A simple weather page that tells you if you need to take an umbrella when going outside ☔ + it shows sunrise/sunset times, and air quality information for supported regions. _Currently only in Polish_.
 
-- 💸 Script to be notified about currency rates & when to buy/sell them → <a href="https://github.com/vardecab/forex-notifier" target="_blank">forex-notifier</a>
+- 💸 Script to be notified about currency rates & when to buy/sell them → <a href="https://github.com/vardecab/notifier-forex" target="_blank">notifier-forex</a>
 
-- ⬇️ Playing around with auto-downloading videos from YouTube when a new video is published on a channel I like (using RSS) → <a href="https://github.com/vardecab/rss-youtube-downloader" target="_blank">rss-youtube-downloader</a>
+- ⬇️ Playing around with auto-downloading videos from YouTube when a new video is published on a channel I like (using RSS) → <a href="https://github.com/vardecab/youtube-downloader-rss" target="_blank">youtube-downloader-rss</a>
 
-- 📺 Downloading YouTube videos (or extracting music from them) — on demand or automatically by taking URL from clipboard or [Pushbullet](https://www.pushbullet.com) → <a href="https://github.com/vardecab/youtube-downloader" target="_blank">youtube-downloader</a>
+- 📺 Downloading YouTube videos (or extracting music from them) — on demand or automatically by taking URL from clipboard or [Pushbullet](https://www.pushbullet.com) or [Raindrop](https://raindrop.io/) → <a href="https://github.com/vardecab/youtube-downloader" target="_blank">youtube-downloader</a>
 
 <!-- ### Smaller experiments: -->
 
