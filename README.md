@@ -11,9 +11,9 @@ You can read more about me by visiting <a href="https://kuba.rdzak.com" target="
 
 ## Newest thing(s) I'm experimenting with
 
-- <a href="https://github.com/vardecab/timetrack-stopwatches" target="_blank">timetrack-stopwatches</a>
+- ⏲️ <a href="https://github.com/vardecab/timetrack-stopwatches" target="_blank">timetrack-stopwatches</a>
 
-- <a href="https://github.com/vardecab/fridget" target="_blank">fridget</a>
+- 🧊 <a href="https://github.com/vardecab/fridget" target="_blank">fridget</a>
 
 <!-- - shrinky -->
 
