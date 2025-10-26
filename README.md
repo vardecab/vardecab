@@ -15,11 +15,11 @@ You can read more about me by visiting <a href="https://kuba.rdzak.com" target="
 
 - <a href="https://github.com/vardecab/fridget" target="_blank">fridget</a>
 
-- shrinky
+<!-- - shrinky -->
 
-- flights
+<!-- - flights -->
 
-- content-diet
+<!-- - content-diet -->
 
 ## Active projects
 
