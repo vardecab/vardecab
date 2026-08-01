@@ -5,8 +5,6 @@
 
 I hope you're having a great day! ☀️ Below you can see the (small) things I put together —  I like to code Quality of Life (QOL) scripts.
 
-You can read more about me by visiting <a href="https://kuba.rdzak.com" target="_blank">my website</a>.
-
 <!-- <br> -->
 
 ## Newest thing(s) I'm experimenting with
@@ -73,6 +71,6 @@ You can read more about me by visiting <a href="https://kuba.rdzak.com" target="
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vardecab&show_icons=true&custom_title=My%20GitHub%20Stats)](https://github.com/vardecab) -->
 
-**Languages**:
+<!-- **Languages**:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vardecab)](https://github.com/vardecab)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vardecab)](https://github.com/vardecab) -->
